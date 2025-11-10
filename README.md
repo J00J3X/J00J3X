@@ -7,9 +7,9 @@
 
 ## 🧠 About Me
 
-🎓 Studying **Computer Science** at Universidade Dinâmica das Cataratas.
-⚙️ Working on projects focused on **smart applications** and **automation**.
-🌱 Currently learning: **game development** and **system architecture**.
+🎓 Studying **Computer Science** at Universidade Dinâmica das Cataratas.  
+⚙️ Working on projects focused on **smart applications** and **automation**.  
+🌱 Currently learning: **game development** and **system architecture**.  
 
 ---
 
