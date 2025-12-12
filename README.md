@@ -1,54 +1,34 @@
-# 👋 Hi, I'm Jonathan Krefta | J00J3X
-
-💻 I'm a **Computer Science student** passionate about **game development** and **systems design**.  
-🚀 Currently focused on **C#**, exploring gameplay programming and automation.
-
----
-
-## 🧠 About Me
-
-🎓 Studying **Computer Science** at Universidade Dinâmica das Cataratas.  
-⚙️ Working on projects focused on **smart applications** and **automation**.  
-🌱 Currently learning: **game development** and **system architecture**.  
-
----
-
-## 🧩 Technologies & Tools
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
----
-
-## 📚 Featured Projects
-
-| Project | Description |
-|----------|--------------|
-| [**Prototipe**](<repo-link>) | Early-stage project exploring system and gameplay logic. |
-| [**Other Projects**](https://github.com/J00J3X?tab=repositories) | Explore all my repositories here. |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J00J3X&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J00J3X&layout=compact&theme=radical" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
----
+###
 
-## 🛰️ Connect with Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&pause=1000&color=666666&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Jonathan+Krefta!;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-krefta-5946b8218)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.krefta040@gmail.com?subject=Contato%20via%20GitHub)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Working on it)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3b/0d/59/3b0d59ad6f0116513264abdf5e6d1f8e.gif" width="130">
+</div>
 
----
 
-⚡ *“I want to be better.”*  
+> ## About me
+- I'm a Computer Science student from Brazil focused on C#, software development, and game programming.  
+- Currently building projects to strengthen my portfolio and would love to join a team as a game dev intern to grow as a professional and contribute with real value.
+
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Contact
+
+<p align="center"><a href="https://www.linkedin.com/in/jonathan-krefta/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:jonathan.krefta040@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
