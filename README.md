@@ -4,7 +4,12 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=35&pause=1000&color=666666&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Jonathan+Krefta!;Welcome+to+my+profile!!)](https://git.io/typing-svg)
+[![Typing SVG](<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&pause=1000&color=666666&center=true&vCenter=true&random=true&width=600&lines=Hello%2C+I%27m+Jonathan+Krefta!;Welcome+to+my+profile!!" />
+  </a>
+</p>
+)
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/3b/0d/59/3b0d59ad6f0116513264abdf5e6d1f8e.gif" width="130">
