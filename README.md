@@ -17,7 +17,7 @@
 
 
 > ## About me
-- I'm a Computer Science student from Brazil focused on C#, software development, and game programming.  
+- I'm a Computer Science student from Brazil focused on C#, .NET, software development, and game programming.  
 - Currently building projects to strengthen my portfolio and would love to join a team as a game dev intern to grow as a professional and contribute with real value.
 
 
